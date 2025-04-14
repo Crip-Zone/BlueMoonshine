@@ -1992,7 +1992,6 @@ ul li.greeting {
 	margin: 1em auto 1em auto;
 	padding: 16px 10px;
 	background: var(--footer_bg);
-	background-color: hsl(208, 74%, 21%);
 	flex: none;
 	border-radius: 9px;
 	min-height: 76px;
